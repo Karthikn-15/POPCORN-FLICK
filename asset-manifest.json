@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/POPCORN-FLICK/static/css/main.ec527050.css",
+    "main.js": "/POPCORN-FLICK/static/js/main.32e83e51.js",
+    "index.html": "/POPCORN-FLICK/index.html",
+    "main.ec527050.css.map": "/POPCORN-FLICK/static/css/main.ec527050.css.map",
+    "main.32e83e51.js.map": "/POPCORN-FLICK/static/js/main.32e83e51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec527050.css",
+    "static/js/main.32e83e51.js"
+  ]
+}
